@@ -1,6 +1,6 @@
-## 📚 Prática: Holydayzer
+# 📚 Prática: Holydayzer
 
-### Descrição
+## Descrição
 
 Nesta prática você deve desenvolver um *back-end* de calendário de feriados!
 
@@ -22,7 +22,7 @@ Nesta prática você deve desenvolver um *back-end* de calendário de feriados!
     ];
     ```
 
-### Back-end
+## Back-end
 
 - **GET** `/holidays`
 
@@ -39,7 +39,7 @@ Nesta prática você deve desenvolver um *back-end* de calendário de feriados!
     console.log(hoje.toLocaleDateString()); // 1/1/2022
     ```
 
-### Bônus
+## Bônus
 
 - **Bônus:** Feriados do mês
 
